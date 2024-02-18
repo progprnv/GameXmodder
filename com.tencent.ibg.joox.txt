@@ -11,5 +11,8 @@ JOOX v5.6.4
 {"classes_name":"classes6.dex"}
 {"original":"6e 10 e3 0d ?? 00 0a ??"}
 {"replaced":"6e 10 e3 0d ?? 00 12 S1"}
+{"classes_name":"classes8.dex"}
+{"original":"6e 10 1f 8c ?? 00 0a ??"}
+{"replaced":"6e 10 1f 8c ?? 00 12 S1"}
 [END]
 Nasi anjing berita hangat...
